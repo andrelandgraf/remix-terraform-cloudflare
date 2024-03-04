@@ -1,8 +1,9 @@
 {
-  "name": "my-remix-app",
+  "name": "remix-terraform-cloudflare",
   "private": true,
   "sideEffects": false,
   "type": "module",
+  "license": "MIT",
   "scripts": {
     "build": "remix build",
     "deploy": "wrangler deploy",

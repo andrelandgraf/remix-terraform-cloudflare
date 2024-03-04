@@ -1,4 +1,4 @@
-name = "remix-cloudflare-workers"
+name = "remix-terraform-cloudflare"
 
 workers_dev = true
 main = "./build/index.js"
